@@ -11,7 +11,7 @@ post_date: 2018-06-07 07:52:13
 [et_pb_section bb_built="1" admin_label="Hero" background_color="#b7b7b7" use_background_color_gradient="on" background_color_gradient_start="rgba(0,0,0,0.55)" background_color_gradient_end="rgba(0,0,0,0.73)" background_color_gradient_type="radial" background_color_gradient_start_position="17%" background_image="http://gahbaz.b.grid.tf/wp-content/uploads/2018/06/photo-1470472304068-4398a9daab00.jpg" background_blend="overlay" custom_padding=""100px|0px|439px|0px"" next_background_color="#ffffff"][et_pb_row custom_padding="|||" padding_top_1="0px" padding_bottom_1="60px" module_alignment="center" background_position="top_left" background_repeat="repeat" background_size="initial"][et_pb_column type="4_4"][et_pb_text text_font="|||on|||||" text_font_size="46px" text_letter_spacing="3px" header_font="|800||on|||||" header_text_align="center" header_font_size="51px" header_text_shadow_style="preset2" header_text_shadow_horizontal_length="0.03em" header_text_shadow_vertical_length="0.01em" header_text_shadow_blur_strength="0.13em" text_orientation="center" background_layout="dark" background_position="top_left" background_repeat="repeat" background_size="initial" module_alignment="center" \_builder\_version="3.6"]
 
 <h1 style="text-align: center;">
-  How to contribute in the ThreeFold Ecosystem22222
+  How to contribute in the ThreeFold Ecosystem3333
 </h1>
 
  
